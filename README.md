@@ -17,7 +17,7 @@ A browser-based sketchpad built as part of **The Odin Project's** Foundations Co
 - Vanilla JavaScript
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages link here]
+https://hoanggiabao123.github.io/odin-etch-a-sketch/
 
 ## 💡 What I Learned
 - Creating and removing DOM elements dynamically.
